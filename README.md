@@ -102,6 +102,9 @@ To check changes and differences in Christianity, Islam, and Non-Religious in co
 ### My Expectiations for Religions in 2020
 Depend on average and %CI, I give expectations for total number of religions in 2020 and expected number of adherents in top three countries where they are majority in 2010. 
 
+
+                                            -Religions in 2020-
+                                            
 **Top religions in the world in 2010**
 
 **-Christianity (2,111,912,953)**
@@ -114,9 +117,12 @@ Depend on average and %CI, I give expectations for total number of religions in 
 
 **-Syncretic Religions (590,530,545)**
 
-                                            -Religions in 2020-
+
 ![Religins2020](https://github.com/RayanSharif/My-Tableau-Project/blob/master/religions2020.PNG)
 
+
+
+                                    -Christianity in 2020, Top 3 Countries- 
 
 **Christian adherents in 2010:**
 
@@ -126,9 +132,11 @@ Depend on average and %CI, I give expectations for total number of religions in 
 
 **-Mexico= 108,811,290**
 
-                                    -Christianity in 2020, Top 3 Countries- 
 ![Christ2020](https://github.com/RayanSharif/My-Tableau-Project/blob/master/Christ-Countries2020.PNG)
 
+
+
+                                        -Islam in 2020, Top 3 Countries-
 
 **Islam adherents in 2010:** 
 
@@ -138,9 +146,11 @@ Depend on average and %CI, I give expectations for total number of religions in 
 
 **-India= 160,130,000**
 
-                                        -Islam in 2020, Top 3 Countries-
 ![Islam2020](https://github.com/RayanSharif/My-Tableau-Project/blob/master/ISlam-Countries2020.PNG)
 
+
+
+                                     -Non_religous in 2020, Top 3 Countries-
 **Non-relogous in 2010:** 
 
 **-China (437,181,638)**
@@ -149,7 +159,7 @@ Depend on average and %CI, I give expectations for total number of religions in 
 
 **-Vietnam (32,002,160)**
 
-                                     -Non_religous in 2020, Top 3 Countries-
+
 ![Non-Relig2020](https://github.com/RayanSharif/My-Tableau-Project/blob/master/Non-relgiCountries2020.PNG)
 
 
