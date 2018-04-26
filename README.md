@@ -114,8 +114,11 @@ Depend on average and %CI, I give expectations for total number of religions in 
 
 
 **Christian adherents in 2010:**
+
 **-USA= 233,111,307**
+
 **-Brazil= 168,313,010**
+
 **-Mexico= 108,811,290**
 
                                     -Christianity in 2020, Top 3 Countries- 
