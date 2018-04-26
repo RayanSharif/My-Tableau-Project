@@ -103,10 +103,15 @@ To check changes and differences in Christianity, Islam, and Non-Religious in co
 Depend on average and %CI, I give expectations for total number of religions in 2020 and expected number of adherents in top three countries where they are majority in 2010. 
 
 **Top religions in the world in 2010**
+
 **-Christianity (2,111,912,953)**
+
 **-Islam (1,555,482,766)**
+
 **-Hindu (1,017,342,648)**
+
 **-Non-Religious (788,323,943)**
+
 **-Syncretic Religions (590,530,545)**
 
                                             -Religions in 2020-
@@ -126,16 +131,22 @@ Depend on average and %CI, I give expectations for total number of religions in 
 
 
 **Islam adherents in 2010:** 
+
 **-Indonesia= 201,550,000**
+
 **-Pakistan = 161,189,451**
+
 **-India= 160,130,000**
 
                                         -Islam in 2020, Top 3 Countries-
 ![Islam2020](https://github.com/RayanSharif/My-Tableau-Project/blob/master/ISlam-Countries2020.PNG)
 
 **Non-relogous in 2010:** 
+
 **-China (437,181,638)**
+
 **-USA (59,422,500)**
+
 **-Vietnam (32,002,160)**
 
                                      -Non_religous in 2020, Top 3 Countries-
