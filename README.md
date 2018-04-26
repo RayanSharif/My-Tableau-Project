@@ -1,7 +1,5 @@
 # My-Data-Science-Practicum-Project
 
-# My-Data-Science-Practicum-Project
-
 **Rayan T. Sharif - Regis University**
 
 ### Why My Story is Useful
