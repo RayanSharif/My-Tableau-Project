@@ -22,7 +22,7 @@ I'm going to start by showing all religions in our world in 2010 and sorting the
 ### Top 5 Religions in the World, 1950-2010
 After showing all religions, I will choose top 5 religions that were the top in 2010. Then, I will show their number of adherents per each decades, 1950-2010. After that, we can notice in each decade which religion has the most adherents and which one has the least. 
 
--Top 5 Religions:
+                                                 -Top 5 Religions:
 ![Top5Relig](https://github.com/RayanSharif/My-Tableau-Project/blob/master/top-5-religions.PNG)
 
 ### Differences and Changes in Top 5 Religions in the World, 1950-2010
