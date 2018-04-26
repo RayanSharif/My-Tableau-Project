@@ -17,6 +17,7 @@ WRP regional and national datasets contain information about the census of relig
 
 I'm going to start by showing all religions in our world in 2010 and sorting them in descending order by using horizontal bars. 
 
+                                           -Famous Religions in the World in 2010-
 ![ReligAll](https://github.com/RayanSharif/My-Tableau-Project/blob/master/Famous%20Religious%202010.PNG)
 
 ### Top 5 Religions in the World, 1950-2010
